@@ -72,3 +72,4 @@ const checkWinner=()=>{
 
 newGameBtn.addEventListener("click",resetGame);
 resetBtn.addEventListener("click",resetGame);
+console.log("manish repo on javasript");
